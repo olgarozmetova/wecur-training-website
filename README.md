@@ -1,6 +1,6 @@
 # Wecur Training Website
 
-Website with training videos and webinars. This website is built with Bootstrap and SCSS. It uses [Font Awesome](https://fontawesome.com/) for icons.
+Website with training videos and webinars. This website is built with Bootstrap and Sass. It uses [Font Awesome](https://fontawesome.com/) for icons.
 
 ## Features
 
